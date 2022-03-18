@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Facec.Classes\Facec.Classes.csproj" />
+    <ProjectReference Include="..\Facec.Extensoes\Facec.Extensoes.csproj" />
+  </ItemGroup>
+
+</Project>
